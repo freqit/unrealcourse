@@ -9082,3 +9082,17 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.27-13.56.01:359][405]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000021326F59A00), frame # 1369405
 [2020.08.27-13.56.01:363][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
 [2020.08.27-13.56.01:402][406]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2020.08.27-14.07.45:982][758]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.08.27-14.07.46:640][758]LogSavePackage: Moving 'D:/unrealcourse/AssignmentTemplate/Saved/AssingmentTemplateDungeoin_Auto9AA11F0334756C465E6C5CEB1BA705860.tmp' to 'D:/unrealcourse/AssignmentTemplate/Saved/Autosaves/Game/X-AssignmentTemplate/Maps/AssingmentTemplateDungeoin_Auto9.umap'
+[2020.08.27-14.07.46:647][758]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/X-AssignmentTemplate/Maps/AssingmentTemplateDungeoin' took 0.689
+[2020.08.27-14.07.46:647][758]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.689
+[2020.08.27-14.07.46:647][758]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Jocke/WindWaker_mat] ([1] browsable assets)...
+[2020.08.27-14.07.46:647][758]OBJ SavePackage: Finished generating thumbnails for package [/Game/Jocke/WindWaker_mat]
+[2020.08.27-14.07.46:647][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jocke/WindWaker_mat" FILE="D:/unrealcourse/AssignmentTemplate/Saved/Autosaves/Game/Jocke/WindWaker_mat_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2020.08.27-14.07.46:666][758]LogSavePackage: Moving 'D:/unrealcourse/AssignmentTemplate/Saved/WindWaker_mat_Auto944F3D76E4293B418DE5B6FB2A9DFAD70.tmp' to 'D:/unrealcourse/AssignmentTemplate/Saved/Autosaves/Game/Jocke/WindWaker_mat_Auto9.uasset'
+[2020.08.27-14.07.46:667][758]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Jocke/WindWakerWaterInstance_mat] ([1] browsable assets)...
+[2020.08.27-14.07.46:667][758]OBJ SavePackage: Finished generating thumbnails for package [/Game/Jocke/WindWakerWaterInstance_mat]
+[2020.08.27-14.07.46:681][758]LogSavePackage: Moving 'D:/unrealcourse/AssignmentTemplate/Saved/WindWakerWaterInstance_mat_Auto99AC10E0745440F89E48296B5C860A7C0.tmp' to 'D:/unrealcourse/AssignmentTemplate/Saved/Autosaves/Game/Jocke/WindWakerWaterInstance_mat_Auto9.uasset'
+[2020.08.27-14.07.46:682][758]LogFileHelpers: Auto-saving content packages took 0.035
+[2020.08.27-14.08.00:841][291]LogEditorViewport: Clicking on Actor (LMB): Platform_BP_C (Platform_BP)
+[2020.08.27-14.16.31:245][994]LogAudioMixer: Display: Audio Buffer Underrun detected.
